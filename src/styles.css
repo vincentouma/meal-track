@@ -1,0 +1,23 @@
+/*   */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{
+    background-image: url("../src/assets/angela-bailey-fFJYpTrkuuM-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Barriecito', cursive;
+    font-size: 500%;
+    color:tomato;
+}
+h2{
+    color:tomato;
+}
+input,p,li,{
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+#detail{
+    border: 4px solid tamato;
+}     
